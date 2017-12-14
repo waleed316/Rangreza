@@ -125,173 +125,233 @@
     <!-- Main-content -->
         <div class="container-fluid px-0 main-content">
             <div class="row mx-0">
-                <div class="col-xl-12">
-                    <!-- First Banner -->
-                        <div class="first-banner">
-                            <div class="row mx-0">
-                                <div class="col-xl-8 col-lg-8 col-md-8 push-xl-4 push-lg-4 push-md-4">
-                                    <div class="banner-image">
-                                        <img src="dist/img/bg7.jpg" alt="" class="img-fluid">
+                <div class="col-xl-12 px-0">
+                    <div class="st">
+                        <div class="row mx-0">
+                            <div class="col-xl-12">
+                                <h1 class="first-heading">SANA & SAIMA</h1>
+                            </div>
+                        </div>
+                        <div class="row mx-0 pt-5">
+                            <div class="col-xl-3">
+                                <div class="first-layout">
+                                    <img src="dist/img/bg4.jpg" class="img-fluid" alt="">
+                                    <div class="inner-text">
+                                        <h4 class="inner-head">SANA & SAIMA</h4>
+                                        <h6 class="inner-subhead">TWILL PALACHI PRINTED</h6>
                                     </div>
                                 </div>
-                                <div class="col-xl-4 col-lg-4 col-md-4 pull-xl-8 pull-lg-8 pull-md-8">
-                                    <div class="banner-box">
-                                        <div class="banner-text">
-                                            <hr class="hidden-md-up first-hr">
-                                            <h2 class="banner-head">ITTEHAD</h2>
-                                            <h5 class="banner-subhead">TWILL PALACHI PRINTED</h5>      
-                                            <hr class="hidden-sm-down second-hr">
-                                            <a href="#" class="btn btn-primary btn-sm banner-btn">SHOP NOW</a>                                     
-                                        </div>
+                            </div>
+
+                            <div class="col-xl-3">
+                                <div class="first-layout">
+                                    <img src="dist/img/bg5.jpg" class="img-fluid" alt="">
+                                    <div class="inner-text">
+                                        <h4 class="inner-head">SANA & SAIMA</h4>
+                                        <h6 class="inner-subhead">TWILL PALACHI PRINTED</h6>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3">
+                                <div class="first-layout">
+                                    <img src="dist/img/bg6.jpg" class="img-fluid" alt="">
+                                    <div class="inner-text">
+                                        <h4 class="inner-head">SANA & SAIMA</h4>
+                                        <h6 class="inner-subhead">TWILL PALACHI PRINTED</h6>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-3">
+                                <div class="first-layout">
+                                    <img src="dist/img/bg10.jpg" class="img-fluid" alt="">
+                                    <div class="inner-text">
+                                        <h4 class="inner-head">SANA & SAIMA</h4>
+                                        <h6 class="inner-subhead">TWILL PALACHI PRINTED</h6>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    <!-- First Banner -->
+                    </div>
 
-                    <!-- Second Banner -->
-                        <div class="second-banner">
-                            <div class="row mx-0">
-                                <div class="col-xl-4 col-lg-4 col-md-4">
-                                    <div class="row mx-0">
-                                        <div class="col-xl-12 px-0">
-                                            <div class="banner-image">
-                                                <img src="dist/img/bg4.jpg" alt="" class="img-fluid">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-12 px-0">
-                                            <div class="banner-box">
-                                                <div class="banner-text">
-                                                    <hr class="first-hr">
-                                                    <h2 class="banner-head">SANA & SAMIA KARANDI</h2>
-                                                    <h5 class="banner-subhead">EMBROIDERED VOL 1</h5>      
-                                                    <!-- <hr class="hidden-sm-down second-hr"> -->
-                                                    <a href="#" class="btn btn-primary btn-sm banner-btn">SHOP NOW</a>                                     
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
 
-                                <div class="col-xl-4 col-lg-4 col-md-4">
-                                    <div class="row mx-0">
-                                        <div class="col-xl-12 px-0 col-12 push-col-12 order">
-                                            <div class="middle-banner-box">
-                                                <div class="banner-text">
-                                                    <h2 class="banner-head">SANA & SAMIA PEACH PALACHI</h2>
-                                                    <h5 class="banner-subhead">EMBROIDERED VOL 1</h5>      
-                                                    <!-- <hr class="hidden-sm-down second-hr"> -->
-                                                    <a href="#" class="btn btn-primary btn-sm banner-btn">SHOP NOW</a>                                     
-                                                    <hr class="first-hr">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-12 px-0 col-12 pull-col-12">
-                                            <div class="banner-image">
-                                                <img src="dist/img/bg5.jpg" alt="" class="img-fluid">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-xl-4 col-lg-4 col-md-4">
-                                    <div class="row mx-0">
-                                        <div class="col-xl-12 px-0">
-                                            <div class="banner-image">
-                                                <img src="dist/img/bg6.jpg" alt="" class="img-fluid">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-12 px-0">
-                                            <div class="banner-box">
-                                                <div class="banner-text">
-                                                    <hr class="first-hr">
-                                                    <h2 class="banner-head">KHADDAR WOOL</h2>
-                                                    <h5 class="banner-subhead">SHAWL VOL 1</h5>      
-                                                    <!-- <hr class="hidden-sm-down second-hr"> -->
-                                                    <a href="#" class="btn btn-primary btn-sm banner-btn">SHOP NOW</a>                                     
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                    <div class="sf">
+                        <img src="dist/img/bg16.jpg" class="img-fluid" alt="">
+                        <div class="inner-text">
+                            <a href="#" class="btn btn-default">SHOP NOW</a>
                         </div>
-                    <!-- Second Banner -->
-
-
-                    <!-- Third Banner -->
-                        <div class="first-banner third-banner">
-                            <div class="row mx-0">
-                                <div class="col-xl-8 col-lg-8 col-md-8">
-                                    <div class="banner-image">
-                                        <img src="dist/img/bg9.jpg" alt="" class="img-fluid">
-                                    </div>
-                                </div>
-                                <div class="col-xl-4 col-lg-4 col-md-4">
-                                    <div class="banner-box">
-                                        <div class="banner-text">
-                                            <hr class="hidden-md-up first-hr">
-                                            <h2 class="banner-head">FIRDOUS</h2>
-                                            <h5 class="banner-subhead">TWILL PALACHI PRINTED</h5>      
-                                            <hr class="hidden-sm-down second-hr">
-                                            <a href="#" class="btn btn-primary btn-sm banner-btn">SHOP NOW</a>                                     
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    <!-- Third Banner -->
-
-                    <!-- Fourth Banner -->
-                        <div class="fourth-banner">
-                            <div class="row mx-0">
-                                <div class="col-xl-6 col-lg-6 col-md-6">
-                                    <div class="row mx-0">
-                                        <div class="col-xl-12 px-0">
-                                            <div class="banner-image">
-                                                <img src="dist/img/bg10.jpg" alt="" class="img-fluid">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-12 px-0">
-                                            <div class="banner-box">
-                                                <div class="banner-text">
-                                                    <hr class="first-hr">
-                                                    <h2 class="banner-head">SANA & SAMIA KARANDI</h2>
-                                                    <h5 class="banner-subhead">EMBROIDERED VOL 1</h5>      
-                                                    <!-- <hr class="hidden-sm-down second-hr"> -->
-                                                    <a href="#" class="btn btn-primary btn-sm banner-btn">SHOP NOW</a>                                     
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-xl-6 col-lg-6 col-md-6">
-                                    <div class="row mx-0">
-                                        <div class="col-xl-12 px-0">
-                                            <div class="banner-image">
-                                                <img src="dist/img/bg11.jpg" alt="" class="img-fluid">
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-12 px-0">
-                                            <div class="banner-box">
-                                                <div class="banner-text">
-                                                    <hr class="first-hr">
-                                                    <h2 class="banner-head">SANA & SAMIA KARANDI</h2>
-                                                    <h5 class="banner-subhead">EMBROIDERED VOL 1</h5>      
-                                                    <!-- <hr class="hidden-sm-down second-hr"> -->
-                                                    <a href="#" class="btn btn-primary btn-sm banner-btn">SHOP NOW</a>                                     
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    <!-- Fourth Banner -->
-
+                        <div class="blur-img"></div>
+                    </div>
                 </div>
             </div>
+
+            <!-- First Banner -->
+                <div class="first-banner">
+                    <div class="row mx-0">
+                        <div class="col-xl-8 col-lg-8 col-md-8 push-xl-4 push-lg-4 push-md-4">
+                            <div class="banner-image">
+                                <img src="dist/img/bg7.jpg" alt="" class="img-fluid">
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4 col-md-4 pull-xl-8 pull-lg-8 pull-md-8">
+                            <div class="banner-box">
+                                <div class="banner-text">
+                                    <hr class="hidden-md-up first-hr">
+                                    <h2 class="banner-head">ITTEHAD</h2>
+                                    <h5 class="banner-subhead">TWILL PALACHI PRINTED</h5>      
+                                    <hr class="hidden-sm-down second-hr">
+                                    <a href="#" class="btn btn-primary btn-sm banner-btn">SHOP NOW</a>                                     
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            <!-- First Banner -->
+
+            <!-- Second Banner -->
+                <div class="second-banner">
+                    <div class="row mx-0">
+                        <div class="col-xl-4 col-lg-4 col-md-4">
+                            <div class="row mx-0">
+                                <div class="col-xl-12 px-0">
+                                    <div class="banner-image">
+                                        <img src="dist/img/bg4.jpg" alt="" class="img-fluid">
+                                    </div>
+                                </div>
+                                <div class="col-xl-12 px-0">
+                                    <div class="banner-box">
+                                        <div class="banner-text">
+                                            <hr class="first-hr">
+                                            <h2 class="banner-head">SANA & SAMIA KARANDI</h2>
+                                            <h5 class="banner-subhead">EMBROIDERED VOL 1</h5>      
+                                            <!-- <hr class="hidden-sm-down second-hr"> -->
+                                            <a href="#" class="btn btn-primary btn-sm banner-btn">SHOP NOW</a>                                     
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-4 col-lg-4 col-md-4">
+                            <div class="row mx-0">
+                                <div class="col-xl-12 px-0 col-12 push-col-12 order">
+                                    <div class="middle-banner-box">
+                                        <div class="banner-text">
+                                            <h2 class="banner-head">SANA & SAMIA PEACH PALACHI</h2>
+                                            <h5 class="banner-subhead">EMBROIDERED VOL 1</h5>      
+                                            <!-- <hr class="hidden-sm-down second-hr"> -->
+                                            <a href="#" class="btn btn-primary btn-sm banner-btn">SHOP NOW</a>                                     
+                                            <hr class="first-hr">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-12 px-0 col-12 pull-col-12">
+                                    <div class="banner-image">
+                                        <img src="dist/img/bg5.jpg" alt="" class="img-fluid">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-4 col-lg-4 col-md-4">
+                            <div class="row mx-0">
+                                <div class="col-xl-12 px-0">
+                                    <div class="banner-image">
+                                        <img src="dist/img/bg6.jpg" alt="" class="img-fluid">
+                                    </div>
+                                </div>
+                                <div class="col-xl-12 px-0">
+                                    <div class="banner-box">
+                                        <div class="banner-text">
+                                            <hr class="first-hr">
+                                            <h2 class="banner-head">KHADDAR WOOL</h2>
+                                            <h5 class="banner-subhead">SHAWL VOL 1</h5>      
+                                            <!-- <hr class="hidden-sm-down second-hr"> -->
+                                            <a href="#" class="btn btn-primary btn-sm banner-btn">SHOP NOW</a>                                     
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            <!-- Second Banner -->
+
+
+            <!-- Third Banner -->
+                <div class="first-banner third-banner">
+                    <div class="row mx-0">
+                        <div class="col-xl-8 col-lg-8 col-md-8">
+                            <div class="banner-image">
+                                <img src="dist/img/bg9.jpg" alt="" class="img-fluid">
+                            </div>
+                        </div>
+                        <div class="col-xl-4 col-lg-4 col-md-4">
+                            <div class="banner-box">
+                                <div class="banner-text">
+                                    <hr class="hidden-md-up first-hr">
+                                    <h2 class="banner-head">FIRDOUS</h2>
+                                    <h5 class="banner-subhead">TWILL PALACHI PRINTED</h5>      
+                                    <hr class="hidden-sm-down second-hr">
+                                    <a href="#" class="btn btn-primary btn-sm banner-btn">SHOP NOW</a>                                     
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            <!-- Third Banner -->
+
+            <!-- Fourth Banner -->
+                <div class="fourth-banner">
+                    <div class="row mx-0">
+                        <div class="col-xl-6 col-lg-6 col-md-6">
+                            <div class="row mx-0">
+                                <div class="col-xl-12 px-0">
+                                    <div class="banner-image">
+                                        <img src="dist/img/bg10.jpg" alt="" class="img-fluid">
+                                    </div>
+                                </div>
+                                <div class="col-xl-12 px-0">
+                                    <div class="banner-box">
+                                        <div class="banner-text">
+                                            <hr class="first-hr">
+                                            <h2 class="banner-head">SANA & SAMIA KARANDI</h2>
+                                            <h5 class="banner-subhead">EMBROIDERED VOL 1</h5>      
+                                            <!-- <hr class="hidden-sm-down second-hr"> -->
+                                            <a href="#" class="btn btn-primary btn-sm banner-btn">SHOP NOW</a>                                     
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xl-6 col-lg-6 col-md-6">
+                            <div class="row mx-0">
+                                <div class="col-xl-12 px-0">
+                                    <div class="banner-image">
+                                        <img src="dist/img/bg11.jpg" alt="" class="img-fluid">
+                                    </div>
+                                </div>
+                                <div class="col-xl-12 px-0">
+                                    <div class="banner-box">
+                                        <div class="banner-text">
+                                            <hr class="first-hr">
+                                            <h2 class="banner-head">SANA & SAMIA KARANDI</h2>
+                                            <h5 class="banner-subhead">EMBROIDERED VOL 1</h5>      
+                                            <!-- <hr class="hidden-sm-down second-hr"> -->
+                                            <a href="#" class="btn btn-primary btn-sm banner-btn">SHOP NOW</a>                                     
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            <!-- Fourth Banner -->
+            
+            
+            
 
             <div class="row mx-0 best-seller-section">
                 <div class="col-xl-12">
