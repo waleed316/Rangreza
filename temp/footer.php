@@ -37,8 +37,8 @@
                 <div class="col-xl-6 text-center">
                     <h6 class="social-head">NEWSLETTER</h6>
                     <div class="form-group form-inner">
-                        <input type="text" class="form-control" placeholder="Enter your email address">
-                        <a href="#" class="btn btn-black-sub">SUBSCRIBE</a>
+                        <input type="text" class="form-control form-control-sm" placeholder="Enter your email address">
+                        <a href="#" class="btn btn-black-sub btn-sm">SUBSCRIBE</a>
                     </div>
                 </div>
             </div>

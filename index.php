@@ -6,7 +6,7 @@
   <body>
     <section class="top-navbar">
         <div class="container-fluid px-0">
-            <row class="mx-0">
+            <!-- <row class="mx-0">
                 <div class="col-xl-12">
                     <div class="left-section">
                         <div class="currency">
@@ -38,7 +38,36 @@
                         <hr>
                     </div>
                 </div>
-            </row>
+            </row> -->
+
+            <div class="row mx-0">
+                <div class="col-xl-2 px-0">
+                    <div class="icon">
+                        <img src="dist/img/icon.png" class="img-fluid" alt="">
+                    </div>
+                </div>
+
+                <div class="col-xl-8 col-lg-8">
+                    <ul class="nav-list">
+                        <li><a href="#" class="nav-item">SPRING SUMMER</a></li>
+                        <li><a href="#" class="nav-item">FALL-WINTER</a></li>
+                        <li><a href="#" class="nav-item">READY TO WEAR</a></li>
+                        <li><a href="#" class="nav-item">ACCESSORIES</a></li>
+                        <li><a href="#" class="nav-item">BOTTOMS</a></li>                        
+                    </ul>
+                </div>
+
+                <div class="col-xl-2 text-right">
+                    <div class="cart">
+                        <i class="fa fa-shopping-cart"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="row mx-0">
+                <div class="col-xl-12 px-0">
+                    <h6 class="top-lock">FREE SHIPPING ON ORDERS OVER 2000</h6>
+                </div>
+            </div>
         </div>
     </section>
 

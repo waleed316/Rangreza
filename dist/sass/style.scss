@@ -13,49 +13,112 @@
 }
 
 .top-navbar{
-    height: 50px;
-    .left-section{
-        float: left;
-        padding: 10px;
-        .currency{
-            width: 55px;
-            float: left;
-            .dropdown{
-                .dropdown-toggle{
-                    padding-right: 5px;
-                    border-right: 1px solid lightgray;
-                    font-size: 14px;
-                    &:hover,&:focus{
-                        background-color: #f2f2f2;
-                        text-decoration: none;
-                    }
+    // height: 50px;
+    // .left-section{
+    //     float: left;
+    //     padding: 10px;
+    //     .currency{
+    //         width: 55px;
+    //         float: left;
+    //         .dropdown{
+    //             .dropdown-toggle{
+    //                 padding-right: 5px;
+    //                 border-right: 1px solid lightgray;
+    //                 font-size: 14px;
+    //                 &:hover,&:focus{
+    //                     background-color: #f2f2f2;
+    //                     text-decoration: none;
+    //                 }
+    //             }
+    //             .dropdown-menu{
+    //                 .currency-option{
+    //                     margin-bottom: 0;
+    //                     max-width: 200px;
+    //                     min-width: 200px;
+    //                     padding: 10px;
+    //                     .dropdown-item{
+    //                         display: inline;
+    //                         margin-right: 8px;
+    //                         padding: 0;
+    //                     }
+    //                 }
+    //             }
+    //         }
+    //     }
+        
+    //     .stores{
+    //         float: left;
+    //         width: 5%;
+    //     }
+    // }
+
+    .icon{
+        height: 50px;
+        width: 100%;
+        position: relative;
+        img{
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    }
+
+    .nav-list{
+        list-style: none;
+        margin-bottom: 0;
+        text-align: center;
+        padding-top: 12px;
+        li{
+            margin: 0 2.5%;
+            display: inline;
+            a{
+                font-family: 'Trajan Pro Regular';
+                font-size: 12px;
+                color:#989898;
+                &:hover{
+                    color: black;
+                    text-decoration: none;
                 }
-                .dropdown-menu{
-                    .currency-option{
-                        margin-bottom: 0;
-                        max-width: 200px;
-                        min-width: 200px;
-                        padding: 10px;
-                        .dropdown-item{
-                            display: inline;
-                            margin-right: 8px;
-                            padding: 0;
-                        }
-                    }
-                }
+
             }
         }
-        
-        .stores{
-            float: left;
-            width: 5%;
+    }
+
+    .cart{
+        position: relative;
+        width: 50px;
+        height: 50px;
+        float: right;
+        cursor: pointer;
+
+        i{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            font-size: 17px;
+            color: #989898;
+
+            &:hover{
+                color: black;
+            }
         }
+    }
+
+    .top-lock{
+        margin-bottom: 0;
+        font-size: 12px;
+        color: white;
+        background-color: black;
+        text-align: center;
+        padding: 8px;
     }
 }
 
 // Slider
     .banner-section{
-        margin-top: 50px;
+        // margin-top: 50px;
         .slider-container{
             position: relative;
             width: 100%;
@@ -621,6 +684,7 @@
                 input{
                     width: 70%;
                     margin: auto;
+                    border-radius: 0;
                 }
 
                 .btn-black-sub{
