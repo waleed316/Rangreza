@@ -15,6 +15,37 @@
     </div>
 </div>
 
+<div class="container-fluid px-0 second-footer pt-5">
+    <div class="container">
+        <div class="pf">
+            <div class="row mx-0">
+                <div class="col-xl-12">
+                    <h4 class="second-head text-center">FOLLOW US</h4>
+                </div>
+            </div>
+            <div class="row mx-0 pt-3">
+                <div class="col-xl-6 text-center">
+                    <h6 class="social-head">SOCIAL MEDIA</h6>
+                    <ul class="social-list">
+                        <li><a href=""><i class="fa fa-facebook"></i></a></li>
+                        <li><a href=""><i class="fa fa-twitter"></i></a></li>
+                        <li><a href=""><i class="fa fa-instagram"></i></a></li>
+                        <li><a href=""><i class="fa fa-snapchat"></i></a></li>
+                        <li><a href=""><i class="fa fa-pinterest"></i></a></li>                        
+                    </ul>
+                </div>
+                <div class="col-xl-6 text-center">
+                    <h6 class="social-head">NEWSLETTER</h6>
+                    <div class="form-group form-inner">
+                        <input type="text" class="form-control" placeholder="Enter your email address">
+                        <a href="#" class="btn btn-black-sub">SUBSCRIBE</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 
 <!-- jQuery first, then Tether, then Bootstrap JS. -->

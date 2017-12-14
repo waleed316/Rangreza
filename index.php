@@ -4,7 +4,7 @@
     <?php include 'temp/header.php' ?>
   </head>
   <body>
-    <!-- <section class="top-navbar">
+    <section class="top-navbar">
         <div class="container-fluid px-0">
             <row class="mx-0">
                 <div class="col-xl-12">
@@ -40,7 +40,7 @@
                 </div>
             </row>
         </div>
-    </section> -->
+    </section>
 
     <!-- Slider -->
         <div class="container-fluid px-0 banner-section">
