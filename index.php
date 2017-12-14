@@ -81,7 +81,7 @@
                 <div class="slides">
                     <div class="inner-slider">
                         <div class="slide-bg-image">
-                            <img src="dist/img/bg1.jpg" alt="">
+                            <img src="dist/img/bg0.jpg" alt="">
                             <div class="inside-text">
                                 <h1 class="main-heading">SANA SAFINA</h1>
                                 <h2 class="sub-heading">Buy Unstich Suit</h2>
@@ -93,6 +93,17 @@
                     <div class="inner-slider">
                         <div class="slide-bg-image">
                             <img src="dist/img/bg2.jpg" alt="">
+                            <div class="inside-text">
+                                <h1 class="main-heading">MARIA B</h1>
+                                <h2 class="sub-heading">Buy Unstich Suit</h2>
+                                <a href="#" class="btn-btn-primary btn-buy-suit">SHOP NOW</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="inner-slider">
+                        <div class="slide-bg-image">
+                            <img src="dist/img/bg3.jpg" alt="">
                             <div class="inside-text">
                                 <h1 class="main-heading">MARIA B</h1>
                                 <h2 class="sub-heading">Buy Unstich Suit</h2>
@@ -158,7 +169,7 @@
                     <div class="st">
                         <div class="row mx-0">
                             <div class="col-xl-12">
-                                <h1 class="first-heading">SANA & SAIMA</h1>
+                                <h1 class="first-heading">NEW ARRIVALS</h1>
                             </div>
                         </div>
                         <div class="row mx-0 pt-5">
@@ -252,7 +263,7 @@
                                     <div class="banner-box">
                                         <div class="banner-text">
                                             <hr class="first-hr">
-                                            <h2 class="banner-head">SANA & SAMIA KARANDI</h2>
+                                            <h2 class="banner-head">RANGREZA</h2>
                                             <h5 class="banner-subhead">EMBROIDERED VOL 1</h5>      
                                             <!-- <hr class="hidden-sm-down second-hr"> -->
                                             <a href="#" class="btn btn-primary btn-sm banner-btn">SHOP NOW</a>                                     
@@ -267,7 +278,7 @@
                                 <div class="col-xl-12 px-0 col-12 push-col-12 order">
                                     <div class="middle-banner-box">
                                         <div class="banner-text">
-                                            <h2 class="banner-head">SANA & SAMIA PEACH PALACHI</h2>
+                                            <h2 class="banner-head">RANGREZA PEACH PALACHI</h2>
                                             <h5 class="banner-subhead">EMBROIDERED VOL 1</h5>      
                                             <!-- <hr class="hidden-sm-down second-hr"> -->
                                             <a href="#" class="btn btn-primary btn-sm banner-btn">SHOP NOW</a>                                     
@@ -320,7 +331,7 @@
                             <div class="banner-box">
                                 <div class="banner-text">
                                     <hr class="hidden-md-up first-hr">
-                                    <h2 class="banner-head">FIRDOUS</h2>
+                                    <h2 class="banner-head">RANGREZA</h2>
                                     <h5 class="banner-subhead">TWILL PALACHI PRINTED</h5>      
                                     <hr class="hidden-sm-down second-hr">
                                     <a href="#" class="btn btn-primary btn-sm banner-btn">SHOP NOW</a>                                     
@@ -345,7 +356,7 @@
                                     <div class="banner-box">
                                         <div class="banner-text">
                                             <hr class="first-hr">
-                                            <h2 class="banner-head">SANA & SAMIA KARANDI</h2>
+                                            <h2 class="banner-head">RANGREZA KARANDI</h2>
                                             <h5 class="banner-subhead">EMBROIDERED VOL 1</h5>      
                                             <!-- <hr class="hidden-sm-down second-hr"> -->
                                             <a href="#" class="btn btn-primary btn-sm banner-btn">SHOP NOW</a>                                     
@@ -366,7 +377,7 @@
                                     <div class="banner-box">
                                         <div class="banner-text">
                                             <hr class="first-hr">
-                                            <h2 class="banner-head">SANA & SAMIA KARANDI</h2>
+                                            <h2 class="banner-head">RANGREZA KARANDI</h2>
                                             <h5 class="banner-subhead">EMBROIDERED VOL 1</h5>      
                                             <!-- <hr class="hidden-sm-down second-hr"> -->
                                             <a href="#" class="btn btn-primary btn-sm banner-btn">SHOP NOW</a>                                     
